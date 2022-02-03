@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/CEHunter30">CEHunter30</a> to mak
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CivanErtunc/FOX-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CivanErtunc/WhatsFOX-QR)
   
   ### Deploy server 1
 
